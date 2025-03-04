@@ -1,0 +1,10 @@
+
+{
+  "name": "vercel-url-decoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
